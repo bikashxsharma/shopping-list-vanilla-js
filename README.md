@@ -1,7 +1,7 @@
 # Shopping cart experience 
 This is a project I did as a Monday evening fun. Idea was to create React experience in pure JavaScript without any library.
 
-Live demo -> updating soon..
+Live demo -> https://shopping-list-vanilla.netlify.app/
 
 Features
 - Generates a dynamic list from an array
