@@ -93,6 +93,14 @@ h2{
   background-color:#5b00da ;
 
 }
+button:disabled{
+  background-color: wheat;
+  cursor:not-allowed;
+}
+button:disabled:hover{
+  background-color: wheat;
+  cursor:not-allowed;
+}
 .itemcart__lists{
   
   min-height: 300px;
